@@ -7,6 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaotong1995&repo=jd-docker&theme=dark)](https://github.com/xiaotong1995/jd-docker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaotong1995&repo=euserv&theme=dark)](https://github.com/xiaotong1995/euserv)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on **TYUT**
