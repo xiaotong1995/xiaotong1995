@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tong</h1>
 <h3 align="center">The laser that has been tortured by chaos</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaotong1995&count_private=true)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaotong1995&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaotong1995&repo=github-readme-stats)](https://github.com/xiaotong1995/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaotong1995&repo=jd-docker&theme=dark)](https://github.com/xiaotong1995/jd-docker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaotong1995&repo=euserv&theme=dark)](https://github.com/xiaotong1995/euserv)
+
 
 
 - 🔭 I’m currently working on **TYUT**
