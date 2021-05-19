@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tong</h1>
 <h3 align="center">The laser that has been tortured by chaos</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaotong1995)](https://github.com/xiaotong1995/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+
 - 🔭 I’m currently working on **TYUT**
 
 - 📝 I regularly write articles on [https://blog.121388.xyz/](https://blog.121388.xyz/)
