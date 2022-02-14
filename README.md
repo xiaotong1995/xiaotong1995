@@ -7,8 +7,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaotong1995&repo=jd-docker&theme=dark)](https://github.com/xiaotong1995/jd-docker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaotong1995&repo=euserv&theme=dark)](https://github.com/xiaotong1995/euserv)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TechXueXi&repo=TechXueXi&theme=merko)](https://github.com/TechXueXi/TechXueXi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TechXueXi&repo=TechXueXi&theme=dark)](https://github.com/TechXueXi/TechXueXi)
 
 
 - 🔭 I’m currently working on **TYUT**
