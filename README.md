@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaotong1995&show_icons=true&theme=radical)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaotong1995&repo=jd-docker&theme=dark)](https://github.com/xiaotong1995/jd-docker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wenoif&repo=DomainScanTool&theme=dark)](https://github.com/xiaotong1995/yds-charger)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaotong1995&repo=yds-charger&theme=dark)](https://github.com/xiaotong1995/yds-charger)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TechXueXi&repo=TechXueXi&theme=dark)](https://github.com/TechXueXi/TechXueXi)
